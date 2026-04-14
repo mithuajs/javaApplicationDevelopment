@@ -12,3 +12,8 @@ public class  areas {
         System.out.println("Area of circle is : " + area);
     }
 }
+
+
+//output
+// Enter radius : 5 
+// Area of circle is : 78.5
