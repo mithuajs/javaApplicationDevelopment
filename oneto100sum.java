@@ -21,7 +21,7 @@
 
 
 
-public class Mithu {
+public class  oneto100sum {
     public static void main(String[] args) {
         int sum = 0;
 
